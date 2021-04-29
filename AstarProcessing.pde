@@ -1,7 +1,7 @@
 grid _grid;
 AstarManager _aMan;
 
-int frameRate = 15;
+int frameRate = 0;
 int frames = 0;
 
 boolean start;
